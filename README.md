@@ -1,8 +1,10 @@
-# barbearia-alura-4
+# ✂️ Barbearia Alura 4.0
 
-Quarto site produzido no curso de HTML e CSS da Alura
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DimitriMll/alura-oracle-one/blob/main/LICENSE)
 
-[https://barbeariaalura4dmuller.netlify.app/](https://barbeariaalura4dmuller.netlify.app/)
+## 🌐 Quarto site produzido no curso de HTML e CSS da Alura
+
+### 📜 [https://barbeariaalura4dmuller.netlify.app/](https://barbeariaalura4dmuller.netlify.app/)
 
 ![image1](https://github.com/DimitriMll/barbearia-alura-4/blob/main/barbearia4-1.PNG)
 
